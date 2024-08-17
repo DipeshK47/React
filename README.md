@@ -1,3 +1,8 @@
-# React
- 
-This repository serves as a learning resource for developers who want to dive deep into React. Each section contains a step-by-step guide to understanding key concepts, followed by a project that applies those concepts. By the end of this tutorial, you should have a solid understanding of React and be able to build your own dynamic web applications.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
